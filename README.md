@@ -3,7 +3,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayfel2&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander338-cl&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
