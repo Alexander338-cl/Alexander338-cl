@@ -20,7 +20,7 @@
 ### 🗃️ Bases de Datos
 
 <p align="left">
-  <img src="https://www.gravityer.com/_next/image?url=https:%2F%2Fvivid-cow-9924242169.media.strapiapp.com%2Foracle_database_18edd9bd15.jpg&w=2048&q=75" alt="Oracle" width="40" />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.AStt7nbluWehDeh8g-_IcQHaEH?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Oracle" width="40" />
 </p>
 
 ---
