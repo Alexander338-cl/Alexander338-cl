@@ -22,3 +22,11 @@
 <p align="left">
   <img src="https://www.gravityer.com/_next/image?url=https:%2F%2Fvivid-cow-9924242169.media.strapiapp.com%2Foracle_database_18edd9bd15.jpg&w=2048&q=75" alt="Oracle" width="40" />
 </p>
+
+---
+
+<div align="center">
+  <h3> GitHub Stats</h3>
+  <a href="https://github.com/JohnFSDev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander338-cl&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3" alt="GitHub Streak" />
+  </a>
