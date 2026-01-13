@@ -24,9 +24,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <h3> GitHub Stats</h3>
-  <a href="https://github.com/JohnFSDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander338-cl&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=38bdf8&fire=38bdf8&currStreakNum=e6edf3" alt="GitHub Streak" />
-  </a>
