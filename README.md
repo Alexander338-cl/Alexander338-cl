@@ -43,9 +43,9 @@ Me interesa aprender, desarrollar soluciones y mejorar constantemente mis habili
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alexander338-cl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=Alexander338-cl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FF7&text_color=FFFFFF"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander338-cl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alexander338-cl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 </div>
 
